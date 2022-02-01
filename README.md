@@ -5,3 +5,5 @@ I am a software developer with a passion for data analyics and web-design. Durin
 I enjoy working with HTML, CSS, and JavaScript for web-development, and Python, SQL, Power BI, and Tableau for data analytics. 
 
 Currently learning: React and React Native! 💡 
+
+Please Visit: https://ltasnim.github.io/ to view my portfolio! 
