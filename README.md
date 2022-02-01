@@ -1,4 +1,4 @@
-## Hi, I'm Lubaba <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👋🏽 👩🏾💻
+## Hi, I'm Lubaba 👋🏽 👩🏾💻
 
 I am a software developer with a passion for data analyics and web-design. During my undergraduate studies, I have worked as a developer to design and build platforms that prioritize user experience. My mission is to make technology accessible and user-friendly for everyone.
 
